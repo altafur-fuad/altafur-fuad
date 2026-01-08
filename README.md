@@ -89,7 +89,7 @@ A Flutter-based medicine information system focused on **structured medical data
 - Localization handling
 - Modular UI structure
 
-🔗 Repository: https://github.com/altafur-fuad/Medilens
+🔗 Repository: 
 
 ---
 
@@ -147,7 +147,7 @@ I rely on diagrams, dry runs, and first-principles thinking to learn deeply.
 ## 📫 Contact
 
 - GitHub: https://github.com/altafur-fuad  
-- Email: your-real-email@example.com  
+- Email: altaf1fuad2@gmail.com 
 
 ---
 
