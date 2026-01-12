@@ -142,6 +142,8 @@ An herbal & Unani medicine information app built with Flutter.
 
 I rely on diagrams, dry runs, and first-principles thinking to learn deeply.
 
+I interested in quantum computing.. 
+
 ---
 
 ## 📫 Contact
